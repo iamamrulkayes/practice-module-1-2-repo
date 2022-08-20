@@ -1,0 +1,28 @@
+.one{
+        color: rgb(54, 54, 250);
+        background-color: rgb(224, 241, 193);
+        border: 10px solid red;
+        border-radius: 20px;
+        text-align: justify;
+        font-size: 20px;
+        margin: 30px 100px 30px 100px;
+        padding: 50px 50px 50px 50px;
+        
+    }
+strong{
+        display: block;
+        text-align: center;
+        }
+
+#buttons{
+        text-align: center;
+        size-adjust: 100px;
+}
+abbr{
+        color: blue;
+        }
+img{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+}
